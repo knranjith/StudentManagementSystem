@@ -14,7 +14,7 @@ public class Main3 {
 	
 	public static void main(String[] args)  {
 
-		System.out.println("******** Student Management System ********");
+		System.out.println("********* Student Management System *********");
 		
 		studentlist = new ArrayList<Student>();
 		scc = new Scanner(System.in);
